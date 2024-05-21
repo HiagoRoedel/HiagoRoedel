@@ -9,7 +9,7 @@
 ###### Tecnologias que uso em meu dia a dia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 
-![snake gif](https://github.com/HiagoRoedel/HiagoRoedel/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/HiagoRoedel/HiagoRoedel/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
 **HiagoRoedel/HiagoRoedel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
