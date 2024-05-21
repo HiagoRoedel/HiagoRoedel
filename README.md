@@ -6,6 +6,7 @@
 
 
 ![Hiago Roedel GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiagoRoedel&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoRoedel&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ###### Tecnologias que uso em meu dia a dia
