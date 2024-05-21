@@ -4,8 +4,9 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hiagoroedel)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hiagoroedel)
 
-![Hiago Roedel GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiagoRoedel&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoRoedel&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Hiago Roedel GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiagoRoedel&show_icons=true&theme=dark)
+
 
 
 ###### Tecnologias que uso em meu dia a dia
