@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # Tecnologias
-<link loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
 
 
 
