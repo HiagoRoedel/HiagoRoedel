@@ -4,7 +4,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hiagoroedel)
 
 ![Hiago Roedel GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiagoRoedel&show_icons=true&theme=dark)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradegs&layout=donut&bg_color=0d1117&text_color=FFF" />
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasandradegs&layout=donut&bg_color=0d1117&text_color=FFF" 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HiagoRoedel&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ###### Tecnologias que uso em meu dia a dia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" witdh="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
