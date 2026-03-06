@@ -37,14 +37,6 @@ I'm a developer focused on building modern web applications. I enjoy turning ide
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagoroedel&layout=donut&bg_color=0d1117&text_color=FFF&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 <div align="center">
 
 **Let's connect — feel free to reach out!** 🚀
